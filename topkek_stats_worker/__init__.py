@@ -1,6 +1,6 @@
 from celery import Celery
 
-app = Celery('topkek_stats_worker', broker='redis://localhost')
+app = Celery('cectf_stats_worker', broker='redis://localhost')
 
 
 @app.task

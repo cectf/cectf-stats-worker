@@ -1,2 +1,2 @@
-# topkek-stats-worker
+# cectf-stats-worker
 Handles incoming user traffic
